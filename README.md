@@ -1,7 +1,7 @@
 # qpay-cli
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![npm](https://img.shields.io/npm/v/qpay-cli)](https://www.npmjs.com/package/qpay-cli)
+[![npm](https://img.shields.io/npm/v/@qpay-sdk/cli)](https://www.npmjs.com/package/@qpay-sdk/cli)
 
 CLI tool for the [QPay V2 Payment API](https://merchant.qpay.mn). Create invoices, check payments, and test webhooks from the terminal.
 
