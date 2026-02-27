@@ -1,0 +1,30 @@
+{
+  "name": "@qpay-sdk/cli",
+  "version": "1.0.0",
+  "description": "CLI tool for QPay V2 Payment API — create invoices, check payments, test webhooks",
+  "type": "module",
+  "bin": {
+    "qpay": "bin/qpay.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "qpay",
+    "payment",
+    "mongolia",
+    "cli",
+    "invoice"
+  ],
+  "author": "QPay SDK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qpay-sdk/qpay-cli.git"
+  },
+  "homepage": "https://qpay-sdk.github.io/qpay-docs/",
+  "dependencies": {
+    "qpay-js": "^1.0.0"
+  }
+}
